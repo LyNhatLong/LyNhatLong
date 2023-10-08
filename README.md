@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @LyNhatLong
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on : im not
-- 📫 How to reach me : nope
+- 👋 CỔ NGUYỆT PHƯƠNG NGUYÊN
+- 👀 LUYỆN THIÊN MA TÔN
+- 🌱 ĐẠI ÁI TIÊN TÔN
+- 💞️ XUÂN THU THIỀN
+- 📫 ĐỊNH TIÊN DU
 
 <!---
 LyNhatLong/LyNhatLong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
