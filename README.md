@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Reactjs, nodejs and java**
 
-- 🤝 One of my project about using nextjs [Portfolio]([https://github.com/LyNhatLong/LyNhatLong-Showcase](https://ly-nhat-long-showcase.vercel.app/))
+- 🤝 One of my project about using nextjs [Portfolio](https://ly-nhat-long-showcase.vercel.app/my-projects)
 
 - 🤝 One of my project about using nodejs [Blog](https://github.com/LyNhatLong/BloggerX)
 
